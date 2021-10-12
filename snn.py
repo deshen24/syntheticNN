@@ -1,7 +1,5 @@
 """
 Synthetic Nearest Neighbors algorithm
-
-Author: Dennis Shen (deshen@mit.edu, dshen24@berkeley.edu)
 """
 import sys
 import warnings 
